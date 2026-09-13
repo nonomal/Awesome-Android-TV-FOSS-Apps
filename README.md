@@ -19,6 +19,7 @@
   - [App Store](#app-store)
   - [Web Browser](#web-browser)
   - [Media Player](#media-player)
+  - [Music Player](#music-player)
   - [Streaming - YouTube](#streaming---youtube)
   - [Streaming - Movies/TV/Anime](#streaming---moviestvanime)
   - [Streaming - IPTV](#streaming---iptv)
@@ -76,6 +77,10 @@
 - **MPV:** A free and open source cross-platform media player and video player [[Source](https://github.com/mpv-android/mpv-android)] [[Website](https://mpv.io/)] [[F-Droid](https://f-droid.org/packages/is.xyz.mpv)] [[Google Play](https://play.google.com/store/apps/details?id=is.xyz.mpv)]
 - **Nova Player:** Video player for local/network content with subtitle/metadata download support [[Source](https://github.com/nova-video-player/aos-AVP)] [[F-Droid](https://f-droid.org/packages/org.courville.nova)] [[Google Play](https://play.google.com/store/apps/details?id=org.courville.nova)]
 - **VLC:** A free and open source cross-platform multimedia player [[Source](https://github.com/videolan/vlc-android)] [[Website](https://www.videolan.org)] [[F-Droid](https://f-droid.org/en/packages/org.videolan.vlc/)] [[Google Play](https://play.google.com/store/apps/details?id=org.videolan.vlc)]
+
+### Music Player
+
+- **ZL-Music TV:** Listening to music on a large TV screen [[Source](https://github.com/kaosZL/ZL_Musicos)]
 
 ### Streaming - YouTube
 
