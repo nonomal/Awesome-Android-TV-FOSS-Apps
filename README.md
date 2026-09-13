@@ -168,6 +168,7 @@
 ### Screen Saver
 
 - **Aerial Views:** A screen saver for Android TV [[Source](https://github.com/theothernt/AerialViews)] [[Google Play](https://play.google.com/store/apps/details?id=com.neilturner.aerialviews)]
+- **Nebula:** Space nebula fly-through screensaver for Android TV. [[Source](https://github.com/jordanade/Nebula)]
 
 ### DNS Proxy
 
