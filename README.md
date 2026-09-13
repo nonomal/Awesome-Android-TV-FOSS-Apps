@@ -64,6 +64,7 @@
 ### Web Browser
 
 - **DTVfree:** Simple, fast and lightweight Web browser for Android TV [[Source](https://github.com/InukaAsith/DTVfree)] 🛑
+- **mrowser:** A lightweight, open-source smart TV web browser built specifically for Android TV and the D-pad remote. Its point is streaming video from sites the TV has no app for. [[Source](https://github.com/m-salehi-v/mrowser)] [[Website](https://m-salehi-v.github.io/mrowser/)]
 - **TV Bro:** Simple web browser optimized to use with TV remote [[Source](https://github.com/truefedex/tv-bro)] [[Google Play](https://play.google.com/store/apps/details?id=com.phlox.tvwebbrowser)]
 
 ### Media Player
