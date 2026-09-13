@@ -92,7 +92,6 @@
 - **Lumera:** Browse, discover, and stream content from Stremio-compatible addons. Connect your Stremio account to instantly import your existing addon collection. [[Source](https://github.com/LumeraD3v/Lumera)]
 - **NuvioTV:** A modern Android TV media player powered by the Stremio addon ecosystem. [[Source](https://github.com/tapframe/NuvioTV)]
 - **Streamflix Reborn:** An Android TV app to stream movies and TV shows for free [[Source](https://github.com/streamflix-reborn/streamflix)]
-- **Stremio:** A video streaming application, that allows you to watch and organize video content from different services [[Source](https://github.com/Stremio)] [[Website](https://www.stremio.com/)] [[Google Play](https://play.google.com/store/apps/details?id=com.stremio.one)] ⚠️
 
 ### Streaming - IPTV
 
