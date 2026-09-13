@@ -78,7 +78,7 @@
 
 ### Streaming - YouTube
 
-- **Clipious:** Client for Invidious, the privacy focused YouTube front end [[Source](https://github.com/lamarios/clipious)] [[F-Droid](https://f-droid.org/packages/com.github.lamarios.clipious/)]
+- **Clipious:** Client for Invidious, the privacy focused YouTube front end [[Source](https://github.com/lamarios/clipious)] [[F-Droid](https://f-droid.org/packages/com.github.lamarios.clipious/)] 🛑
 - **NewPipe:** Lightweight YouTube frontend [[Source](https://github.com/TeamNewPipe/NewPipe)] [[Website](https://newpipe.net/)] [[F-Droid](https://f-droid.org/packages/org.schabi.newpipe/)]
 - **SmartTube:** An advanced (YouTube) player for Android TVs and TV boxes [[Source](https://github.com/yuliskov/smarttube)] [[Website](https://smarttubeapp.github.io/)]
 - **TizenTube Cobalt:** Experience TizenTube on other devices that are not Tizen [[Source](https://github.com/reisxd/TizenTubeCobalt)]
