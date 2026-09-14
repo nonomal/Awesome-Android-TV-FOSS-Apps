@@ -102,9 +102,15 @@
 
 ### Streaming - IPTV
 
+- **Airo:** AI chat, personal finance, TV & music, games, and reading in one. [[Source](https://github.com/DevelopersCoffee/airo)]
 - **Digilog TV:** A free and open-source TV news app. [[Source](https://github.com/aldrinzigmundv/digilogtv)] [[IzzyOnDroid](https://apt.izzysoft.de/packages/io.github.aldrinzigmundv.digilogtv/)] [[Google Play](https://play.google.com/store/apps/details?id=io.github.aldrinzigmundv.digilogtv)]
+- **EliteStocks TV:** Built for Android TV first, EliteStocks TV focuses on the things generic IPTV apps usually get wrong. [[Source](https://github.com/anuragrajpandey/StreamVault-IPTV)]
+- **Lumen:** A cinematic, cross-platform IPTV player for the legal Xtream or M3U service you already use. [[Source](https://github.com/Talha-Ashraf420/Lumen-App)]
+- **Lumora:** A fast, lightweight IPTV and personal-media client for Android, Android TV, Fire TV. [[Source](https://github.com/disclosurez/Lumora)]
 - **M3U:** Stream media player on Android devices. [[Source](https://github.com/realOxy/M3UAndroid)] [[F-Droid](https://apt.izzysoft.de/fdroid/index/apk/com.lagradost.cloudstream3)]
 - **Megacubo:** Cross-platform IPTV player for Windows, Linux, macOS and Android with support for M3U playlists, live TV streams, bookmarks, history, miniplayer mode and community lists. [[Source](https://github.com/EdenwareApps/Megacubo)] [[Website](https://megacubo.tv)]
+- **OwnTV:** Your own IPTV player for Android TV. [[Source](https://github.com/ahXN00/OwnTV)]
+- **Prysm:** a modern, lightweight M3U IPTV player built with Expo / React. [[Source](https://github.com/dereferencex/prysm)]
 - **XPlayer:** A cross-platform IPTV / M3U player. [[Source](https://github.com/TNT-Likely/xplayer)] 📺
 
 ### Streaming - Self-hosted
